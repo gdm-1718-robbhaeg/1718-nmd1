@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Asap+Condensed:400,400i,500,600,700,700i|Droid+Sans:400,700|Slabo+27px');
+
+body {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 400;  
+  color: #3A836C;
+  background-color: #F5F1B9;
+  background-size: cover;
+}
+
+/*ADOBE COLOR: Christmas Poe
+#2E554A donkergroen - #F5F1B9 beige 
+*/
+
+body strong{
+	font-weight: 700;
+}
+
+/*strong {
+  color: #E33431;
+}*/
+
+#wrapper{
+  width: 25%;
+  margin: 0px auto;
+  padding: 2px;
+  float: right;
+}
+
+#profielfoto{
+  width: 100%;
+  height: 100%;
+  padding-top: 20px;
+  overflow: hidden;
+  float: center;
+}
+
+figcaption{
+  color: white;
+  text-align: right;
+  background-color: grey;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.contactrij{
+  padding-left:30px;
+}
+
+#contactblok{
+  width: 40px;
+  margin: 10px;
+  overflow: hidden;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  background-color: lightgray;
+  padding: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Asap Condensed', sans-serif;
+  font-weight: 500;
+  color: #3A836C;
+}
+
+h1 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 48px;
+  font-weight: 900;
+  color: #E33431;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+h3{
+  font-size: 28px;
+  font-weight: 500;
+}
+
+h4{
+  font-size: 24px;
+  font-weight: 500;
+}
+
+hr {
+  border-color: #E33431;
+}
+
+a {
+  color: #E33431;
+}
+
+ul{
+  list-style: square;
+  list-style-position: outside;
+}
+
+ol{
+  list-style-type: none;
+  list-style-position: inside;
+}
+
+dl{
+  list-style-type: square; 
+  list-style-position: inside;
+}
+
+.pagina{
+  width: 1200px;
+  padding: 20px, 30px;
+  margin: auto;
+}
+
+.benadrukken{
+  font-weight: bold;
+  width: 1140px;
+  padding: 20px;
+  margin: 20px;
+  overflow: hidden;
+}
+
+.navbar{
+  background-color: #E33431;
+  padding: 10px;
+  border: 5px, solid, #E33431;
+  margin: 2px;
+  text-align: right;
+}
+
+.menu_link{
+  color: #f1f1f1;
+  text-decoration-line: none;
+  padding-right: 20px;
+}
+
+
